@@ -2,6 +2,8 @@
 
 ** by Thomas Lord
 
+
+
 This repository hosts [[https://srfi.schemers.org/srfi-52/][SRFI 52]]: Permitting and Supporting Extended Character Sets, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
